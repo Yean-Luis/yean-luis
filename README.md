@@ -11,6 +11,11 @@ Un gusto conocer mas de ti y compartir sueños similares, hasta pronto amigo.
 - TO WRITE
 - FOOTBALL
 
+## technologies
+- html
+- css
+- js
+
 ## Skills
 
 - coaching
