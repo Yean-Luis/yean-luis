@@ -10,3 +10,8 @@ Un gusto conocer mas de ti y compartir sueños similares, hasta pronto amigo.
 - AI INTELIGENT
 - TO WRITE
 - FOOTBALL
+
+## Skills
+
+- coaching
+- Ai Intilegent
